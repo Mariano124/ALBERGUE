@@ -1,0 +1,41 @@
+.CARATULA {
+	width: 100%;
+}
+.CONTACTO {
+	width: 100%;
+}
+.mano {
+	position: absolute;
+	left: 1400px;
+	top: 1900px;
+	height: 2000px;
+}
+.nuevo {
+	width: 1400px;
+	position: absolute;
+	top: 2400px;
+	left: 3000px;
+}
+@media (max-width: 1000px){
+	.CARATULA {
+	width: 1450px;
+}
+.CONTACTO {
+	width: 100%;
+}
+
+
+.mano {
+	position: absolute;
+	left: 200px;
+	top: 1200px;
+	height: 400px;
+}
+.nuevo {
+	width: 400px;
+	position: absolute;
+	top: 1300px;
+	left: 500px;
+}
+
+}
