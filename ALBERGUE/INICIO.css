@@ -1,5 +1,5 @@
-.nuevo {
-	position: absolute;
-	top: 300px;
-	left: 300px;
+@media all (max-width: 900px){
+.titulo {
+	display: none;
+}
 }
